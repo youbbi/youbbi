@@ -14,6 +14,6 @@ Today I help early-stage startups find product-market fit faster, and I'm having
 | **[artsDB](https://artsdb-inky.vercel.app/)** | Every show, concert, exhibit and game I've been to since 2012, with who I went with and what to see next. |
 | **[Trailguide](https://pmf-canvas.vercel.app/)** | Turns founder interviews and documents into evidence on a lean canvas, and tells you which hypothesis to test next. |
 | **[Bookies](https://github.com/youbbi/bookies)** | Your bookshelf, shared with a small circle of friends: what you own, what you've read, what's out on loan. Open source. |
-| **Mon Jardin** | Every plant and tree around the house pinned on a photo, with care reminders through all four seasons. Personal app. |
+| **Florilège** | Every plant and tree around the house pinned on a photo, with care reminders through all four seasons. Personal app. |
 | **[Product Debate Console](https://github.com/youbbi/product-debate-console)** | Four AI executives debate a product bet in parallel and land on GO, PIVOT or HOLD. Open source. |
 | **[Headshot AI](https://github.com/youbbi/headshot-ai-app)** | One everyday photo in, several professional headshot styles out. Inspired by [Peter Yang](https://creatoreconomy.so)'s *Behind the Craft*. |
