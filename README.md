@@ -1,6 +1,6 @@
 ### Hi, I'm Hubert.
 
-Product builder in Boucherville, Québec. I've spent 20 years building products, and two of them ended in exits: I was on the product team at **PasswordBox** when Intel acquired it, then joined **Dialogue** as its first product manager at $200K ARR and helped grow it past $110M before Sun Life acquired it.
+Product builder in Boucherville, Québec. I've spent 20 years building products, and two of them ended in exits: I was on the product team at **PasswordBox** when Intel acquired it, then joined **Dialogue** as its only product manager at $200K ARR and helped grow it past $110M, through its IPO and then its acquisition by Sun Life.
 
 Today I help early-stage startups find product-market fit faster, and I'm having more fun than ever building my own apps with AI.
 
